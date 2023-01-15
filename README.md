@@ -65,7 +65,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kerry Enfinger - k.enfinger@proton.me
+Kerry Enfinger - kerry.enfinger@proton.me
 
 Project Link: [https://github.com/kenfinger/Divertere](https://github.com/kenfinger/Divertere)
 
